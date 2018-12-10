@@ -1,0 +1,57 @@
+C:\Users\DELL-PC\AppData\Local\Temporary Projects\Math V1.1\bin\Debug\Math V1.1.exe.config
+C:\Users\DELL-PC\AppData\Local\Temporary Projects\Math V1.1\obj\Debug\Math V1.1.csprojResolveAssemblyReference.cache
+C:\Users\DELL-PC\AppData\Local\Temporary Projects\Math V1.1\obj\Debug\Math_V1._1.Properties.Resources.resources
+C:\Users\DELL-PC\AppData\Local\Temporary Projects\Math V1.1\obj\Debug\Math_V1._1.Trangchu.resources
+C:\Users\DELL-PC\AppData\Local\Temporary Projects\Math V1.1\obj\Debug\Math V1.1.csproj.GenerateResource.Cache
+C:\Users\DELL-PC\AppData\Local\Temporary Projects\Math V1.1\obj\Debug\Math V1.1.exe.licenses
+C:\Users\DELL-PC\AppData\Local\Temporary Projects\Math V1.1\bin\Debug\Math V1.1.exe
+C:\Users\DELL-PC\AppData\Local\Temporary Projects\Math V1.1\bin\Debug\Math V1.1.pdb
+C:\Users\DELL-PC\AppData\Local\Temporary Projects\Math V1.1\obj\Debug\Math V1.1.exe
+C:\Users\DELL-PC\AppData\Local\Temporary Projects\Math V1.1\obj\Debug\Math V1.1.pdb
+E:\Math V1.1\Math V1.1\bin\Debug\Math V1.1.exe.config
+E:\Math V1.1\Math V1.1\obj\Debug\Math V1.1.exe
+E:\Math V1.1\Math V1.1\obj\Debug\Math V1.1.pdb
+E:\Math V1.1\Math V1.1\bin\Debug\Math V1.1.exe
+E:\Math V1.1\Math V1.1\bin\Debug\Math V1.1.pdb
+E:\Math V1.1\Math V1.1\obj\Debug\Math_V1._1.Properties.Resources.resources
+E:\Math V1.1\Math V1.1\obj\Debug\Math_V1._1.Trangchu.resources
+E:\Math V1.1\Math V1.1\obj\Debug\Math V1.1.csproj.GenerateResource.Cache
+E:\Math V1.1\Math V1.1\obj\Debug\Math V1.1.exe.licenses
+E:\Math V1.1\Math V1.1\obj\Debug\Math_V1._1.Thongbao.resources
+E:\Math V1.1\Math V1.1\obj\Debug\Math_V1._1.Duongthang.resources
+E:\Math V1.1\Math V1.1\obj\Debug\Math_V1._1.Duongtron.resources
+E:\Math V1.1\Math V1.1\obj\Debug\Math_V1._1.DuongElip.resources
+E:\Math V1.1\Math V1.1\obj\Debug\Math_V1._1.Tacgia.resources
+E:\Math V1.1\Math V1.1\obj\Debug\Math_V1._1.ThongTinDoThi.resources
+E:\Math V1.1\Math V1.1\obj\Debug\Math_V1._1.Main.resources
+E:\Math V1.1\Math V1.1\obj\Debug\Math_V1._1.Graph.resources
+E:\Math V1.1\Math V1.1\obj\Debug\Math_V1._1.Gmail.resources
+E:\Math V1.1\Math V1.1\obj\Debug\Math_V1._1.Thuoctinhhinhhoc.resources
+E:\Math V1.1\Math V1.1\obj\Debug\Math_V1._1.Maytinh.resources
+E:\Math V1.1\Math V1.1\obj\Debug\Math_V1._1.Phepbienhinh.resources
+E:\Math V1.1\Math V1.1\obj\Debug\Math_V1._1.FishForm.resources
+E:\Math V1.1\Math V1.1\obj\Debug\Math V1.1.csprojResolveAssemblyReference.cache
+E:\Math V1.1\Math V1.1\obj\Debug\Math_V1._1.Huongdansudung.resources
+E:\Math V1.1\Math V1.1\obj\Debug\Math_V1._1.Loading.resources
+C:\Users\Admin\Downloads\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Sản phẩm hoàn thiện\Math V1.1\obj\Debug\Math V1.1.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Sản phẩm hoàn thiện\Math V1.1\obj\Debug\Math_V1._1.DuongElip.resources
+C:\Users\Admin\Downloads\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Sản phẩm hoàn thiện\Math V1.1\obj\Debug\Math_V1._1.Duongthang.resources
+C:\Users\Admin\Downloads\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Sản phẩm hoàn thiện\Math V1.1\obj\Debug\Math_V1._1.Duongtron.resources
+C:\Users\Admin\Downloads\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Sản phẩm hoàn thiện\Math V1.1\obj\Debug\Math_V1._1.FishForm.resources
+C:\Users\Admin\Downloads\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Sản phẩm hoàn thiện\Math V1.1\obj\Debug\Math_V1._1.Gmail.resources
+C:\Users\Admin\Downloads\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Sản phẩm hoàn thiện\Math V1.1\obj\Debug\Math_V1._1.Graph.resources
+C:\Users\Admin\Downloads\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Sản phẩm hoàn thiện\Math V1.1\obj\Debug\Math_V1._1.Huongdansudung.resources
+C:\Users\Admin\Downloads\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Sản phẩm hoàn thiện\Math V1.1\obj\Debug\Math_V1._1.Loading.resources
+C:\Users\Admin\Downloads\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Sản phẩm hoàn thiện\Math V1.1\obj\Debug\Math_V1._1.Main.resources
+C:\Users\Admin\Downloads\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Sản phẩm hoàn thiện\Math V1.1\obj\Debug\Math_V1._1.Maytinh.resources
+C:\Users\Admin\Downloads\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Sản phẩm hoàn thiện\Math V1.1\obj\Debug\Math_V1._1.Phepbienhinh.resources
+C:\Users\Admin\Downloads\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Sản phẩm hoàn thiện\Math V1.1\obj\Debug\Math_V1._1.Properties.Resources.resources
+C:\Users\Admin\Downloads\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Sản phẩm hoàn thiện\Math V1.1\obj\Debug\Math_V1._1.Tacgia.resources
+C:\Users\Admin\Downloads\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Sản phẩm hoàn thiện\Math V1.1\obj\Debug\Math_V1._1.Thongbao.resources
+C:\Users\Admin\Downloads\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Sản phẩm hoàn thiện\Math V1.1\obj\Debug\Math_V1._1.ThongTinDoThi.resources
+C:\Users\Admin\Downloads\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Sản phẩm hoàn thiện\Math V1.1\obj\Debug\Math_V1._1.Thuoctinhhinhhoc.resources
+C:\Users\Admin\Downloads\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Sản phẩm hoàn thiện\Math V1.1\obj\Debug\Math_V1._1.Trangchu.resources
+C:\Users\Admin\Downloads\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Sản phẩm hoàn thiện\Math V1.1\obj\Debug\Math V1.1.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Sản phẩm hoàn thiện\Math V1.1\obj\Debug\Math V1.1.exe.licenses
+C:\Users\Admin\Downloads\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Sản phẩm hoàn thiện\Math V1.1\obj\Debug\Math V1.1.exe
+C:\Users\Admin\Downloads\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Dự án KHKT trường THPT Lê Quý Đôn, tỉnh Gia Lai\Sản phẩm hoàn thiện\Math V1.1\obj\Debug\Math V1.1.pdb
